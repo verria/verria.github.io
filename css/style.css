@@ -1,0 +1,37 @@
+/*reset.less*//* CSS Document */
+
+
+ul,li,div,p,h1,h2,h3,h4,h5,h6,dl,dt,dd {
+    margin:0;
+    padding:0;
+}
+
+li {
+    list-style:none;
+}
+a {
+    text-decoration:none;
+    color:#ff0000 ;   
+
+}
+
+body {
+    padding: 4rem;
+}
+h1 {
+    font-size: 60px;
+}
+
+ul, li, p {
+   font-size: 24px;
+   color: #222; 
+}
+
+.btn01 {
+    font-size: 20px;
+    color:#fff;
+    padding: 1.2rem;
+    margin: 1rem 0 2rem 0;
+    border: 0;
+    background: #222;
+}
